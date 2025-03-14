@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5206214f2812e497a9fe9572b9f8ac0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 4060959950626658022, guid: 7e2ff82d56a7640dca3058bf9f5b1928, type: 3}
+  - cloudPrefab: {fileID: 5738893417404699762, guid: 0c2e603c4a791415c808a185dd2314c1, type: 3}
+  - stormCloudPrefab: {fileID: 4318054417500026074, guid: b3e1dc0a4b96c4a5089728a72a031c92, type: 3}
+  - currentCloud: {instanceID: 0}
+  - comboText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
