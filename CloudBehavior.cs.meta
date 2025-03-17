@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d55b355fbc4da4c71a983aa06d6ee469
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - inkMaterial: {fileID: 2100000, guid: e15fcdcf53be94ffaba330431c74bc77, type: 2}
+  - bigCloudPrefab: {fileID: 4318054417500026074, guid: 739130416f3a04f57b5fda69748b9bc8, type: 3}
+  - stormCloudPrefab: {fileID: 4318054417500026074, guid: b3e1dc0a4b96c4a5089728a72a031c92, type: 3}
+  - superpowerPickupPrefab: {fileID: 1032219545517551914, guid: b0758bf426c7740cda48b3b8cbc9b63a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
